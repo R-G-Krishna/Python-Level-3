@@ -1,0 +1,16 @@
+{
+    "Name":'R.GopiKrishna',
+     "Roll":"178X5A0321",
+     "Data":{'Name':'KHIT',
+             'Branch':'MECH'},
+     "Education":[
+    "SSC":{"Name":"High School",
+           "Board":"SSC",
+           "%":87},
+    "Dip":{"Name":"SMCE",
+           "Board":"SBTET",
+           "%":71},
+    "B.Tech":{"Name":"KHIT",
+           "Board":"JNTUK",
+           "%":65}]
+}
